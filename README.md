@@ -2,6 +2,7 @@
  SPM defacer script that uses SPM standalone on Docker to deface individual images
 
  HOW TO USE:
+ 
  Step 1 - Make sure you have docker desktop installed on you computer.
 
  Step 2 - Download the appropriate version of the script, currently only supports MAC OS.  
