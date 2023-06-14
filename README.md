@@ -5,7 +5,7 @@
  
  Step 1 - Make sure you have docker desktop installed on you computer.
 
- Step 2 - Download the appropriate version of the script, currently only supports MAC OS.  
+ Step 2 - Download the appropriate version of the script (either to deface a single image or an entire folder); currently only supports MAC OS or LINUX.  
 
  Step 3 - Open a Terminal and type in the location of the script, then a space, and then add the location of the .nii file you want defaced. 
           See screen shot for example:
