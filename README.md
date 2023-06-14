@@ -7,7 +7,7 @@
 
  Step 2 - Download the appropriate version of the script (either to deface a single image or an entire folder); currently only supports MAC OS or LINUX.  
 
- Step 3 - Open a Terminal and type in the location of the script, then a space, and then add the location of the NIFTI file or folder you want defaced. MAKE SURE TO INCLUDE THE ENTIRE PATH OF THE FILE OR FOLDER.
+ Step 3 - Open a Terminal and type in the location of the script, then a space, and then add the location of the NIFTI file or folder you want defaced. Make sure to include the ENTIRE PATH OF THE FILE OR FOLDER YOU WANT DEFACED.
  
  See screen shot for example:
 
