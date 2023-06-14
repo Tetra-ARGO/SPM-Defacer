@@ -1,5 +1,5 @@
 # SPM Defacer
- SPM defacer script that uses SPM standalone on Docker to deface individual images
+ SPM defacer script that uses SPM standalone on Docker to deface individual images. Two types of scripts exist, one for defacing individual images (spm_deface_file.sh) and the other for defacing a folder and all its subfolders (spm_deface_folder.sh).
 
  HOW TO USE:
  
